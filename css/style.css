@@ -1,0 +1,181 @@
+/*header*/
+header{
+    width: 90%;
+    height: 100px;
+    margin-left: 5%;
+    padding-top: 20px;
+    overflow: hidden;
+}
+.logo{
+width: 20%;
+float: left;
+}
+nav{
+width: 60%;
+float: right;
+}
+nav ul{
+    list-style-type: none;
+    float: right;
+    margin: 0;}
+nav ul li{
+    float: left;
+    margin-left: 50px;
+    text-transform: uppercase;
+    color: #626262;
+    font-size: 18px;
+}
+/*header*/
+.banner{
+    width: 90%;
+    margin: auto;
+}
+.banner img{
+    width: 100%;
+}
+/*photodairy*/
+.photodairy{
+    width: 80%;
+    margin-left: 10%;
+    color: #626262;
+}
+.photodairy h1{
+margin-top: 15px;
+}
+.photodairy h6{
+    margin-top: 30px;
+}
+.photodairy p{
+    height: 100%;
+    font-size: 14px;
+    margin-top: 15px;
+}
+h6{
+    color: #626262;
+}
+.lifestyle{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+.lifestyle .img1{
+    width: 47%;
+    overflow: hidden;
+    float: left;
+}
+.lifestyle .img1 img{
+    width: 100%;
+}
+.lifestyle .img1 p{
+    width: 100%;
+    color: #626262;
+}
+.lifestyle .img2{
+    width: 47%;
+    float: right;
+    overflow: hidden;
+}
+.lifestyle .img2 img{
+    width: 100%;
+}
+.lifestyle .img2 p{
+    width: 100%;
+    color: #626262;
+}
+.newsletter{
+    height: 100px;
+    background-color: #f0f0f0;
+    overflow: hidden;
+    padding: 70px 0;
+    margin: 50px 0;
+}
+.signup{width: 30%;margin: auto;position: relative;}
+.signup h1{
+color: #626262;
+}
+.signup input{
+    width: 100%;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #626262;
+
+}
+.signup img{
+
+}
+.newsletter .img{
+    
+position: absolute;
+    
+right: 0;
+    
+bottom: 0;
+}
+.btn{
+    text-align: center;
+    margin: 200px 0;
+    overflow: hidden;
+}
+button{
+    background: transparent;
+    border: 1px solid #626262;
+    padding: 20px 25px;
+    font-size: 18px;
+}
+footer{
+    background-color: #f0f0f0;
+    padding: 50px 0;
+}
+.footer-content{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+.term{
+
+width: 30%;
+
+float: left;
+}
+.term ul{
+
+margin: 0;
+
+padding: 0;
+
+list-style: none;
+}
+.term ul li{
+
+float: left;
+
+margin-right: 15px;
+
+font-size: 18px;
+
+color: #626262;
+}
+.social{
+
+width: 40%;
+
+float: right;
+}
+.social ul{
+
+margin: 0;
+
+padding: 0;
+
+list-style: none;
+
+float: right;
+}
+.social ul li{
+    
+float: left;
+    
+color: #626262;
+    
+margin-left: 20px;
+}
